@@ -1,6 +1,6 @@
 <center>
 
-![](https://img.shields.io/packagist/dm/athlon1600/php-proxy) ![](https://img.shields.io/github/last-commit/athlon1600/php-proxy)
+![](https://img.shields.io/packagist/dm/diepxuan/php-proxy) ![](https://img.shields.io/github/last-commit/diepxuan/php-proxy)
 
 </center>
 
@@ -14,7 +14,7 @@ PHP-Proxy Web Application
 -------
 
 If you're looking for a **project** version of this script that functions as a Web Application similar to Glype, then visit
-[**php-proxy-app**](https://github.com/Athlon1600/php-proxy-app)
+[**php-proxy-app**](https://github.com/diepxuan/php-proxy-app)
 
 See this php-proxy in action:
 <a href="https://proxy.unblockvideos.com/" target="_blank">proxy.unblockvideos.com</a>
@@ -25,7 +25,7 @@ Installation
 Install it using [Composer](http://getcomposer.org):
 
 ```bash
-composer require athlon1600/php-proxy
+composer require diepxuan/php-proxy
 ```
 
 Example
